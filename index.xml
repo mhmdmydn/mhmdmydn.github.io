@@ -4,9 +4,17 @@
         <link>http://mhmdmydn.github.io/</link>
         <description>This is My Website built with Hugo</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>muhammadmayudin@gmail.com (Muhammad Mayudin)</managingEditor>
-            <webMaster>muhammadmayudin@gmail.com (Muhammad Mayudin)</webMaster><lastBuildDate>Thu, 07 Jul 2022 15:48:18 &#43;0700</lastBuildDate>
+            <webMaster>muhammadmayudin@gmail.com (Muhammad Mayudin)</webMaster><lastBuildDate>Thu, 07 Jul 2022 18:26:03 &#43;0700</lastBuildDate>
             <atom:link href="http://mhmdmydn.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Test post</title>
+    <link>http://mhmdmydn.github.io/first_post/</link>
+    <pubDate>Thu, 07 Jul 2022 18:26:03 &#43;0700</pubDate>
+    <author>Muhammad Mayudin</author>
+    <guid>http://mhmdmydn.github.io/first_post/</guid>
+    <description><![CDATA[Test post]]></description>
+</item>
+<item>
     <title>About Me</title>
     <link>http://mhmdmydn.github.io/about_me/</link>
     <pubDate>Thu, 07 Jul 2022 15:48:18 &#43;0700</pubDate>

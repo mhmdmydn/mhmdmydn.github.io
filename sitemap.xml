@@ -2,11 +2,12 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>http://mhmdmydn.github.io/</loc><lastmod>2022-07-07T18:26:03&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://mhmdmydn.github.io/posts/</loc><lastmod>2022-07-07T18:26:03&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://mhmdmydn.github.io/first_post/</loc><lastmod>2022-07-07T18:26:03&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://mhmdmydn.github.io/tags/about/</loc><lastmod>2022-07-07T15:48:18&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://mhmdmydn.github.io/about_me/</loc><lastmod>2022-07-07T15:48:18&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://mhmdmydn.github.io/categories/blogs/</loc><lastmod>2022-07-07T15:48:18&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://mhmdmydn.github.io/categories/</loc><lastmod>2022-07-07T15:48:18&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://mhmdmydn.github.io/tags/intorduction/</loc><lastmod>2022-07-07T15:48:18&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://mhmdmydn.github.io/</loc><lastmod>2022-07-07T15:48:18&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://mhmdmydn.github.io/posts/</loc><lastmod>2022-07-07T15:48:18&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://mhmdmydn.github.io/tags/</loc><lastmod>2022-07-07T15:48:18&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
